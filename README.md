@@ -1,7 +1,7 @@
 # version-control
-Get familiar with version control basics.
+This project is to get more familiar with version control basics.
 
-This project will have both addition and division functions located in "math_lib.py"
+Included in this project are both addition and division functions located in "math_lib.py"
 
 The "add" and "div" function is used in "calculate.py"
 
